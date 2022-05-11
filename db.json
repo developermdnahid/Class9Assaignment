@@ -1,0 +1,61 @@
+{
+    "students" :[
+        {
+            "name" : "Ashraful Haque",
+            "age" : 28,
+            "skill" : "IOS Developer"
+        },
+        {
+            "name" : "Md Nazrul Islam Nahid",
+            "age" : 21,
+            "skill" : "MERN Stack Developer"
+        },
+        {
+            "name" : "Habib",
+            "age" : 25,
+            "skill" : "Web Developer"
+        },
+        {
+            "name" : "Sabbir Ahmed",
+            "age" : 21,
+            "skill" : "MERN Stack Developer"
+        },
+        {
+            "name" : "Tanvir Haque",
+            "age" : 25,
+            "skill" : "Web Developer"
+        }
+    ],
+    "teacher" : [
+        {
+            "name" : "Ashraful Haque",
+            "age" : 35,
+            "skill" : "IOS Developer",
+            "biye" : false 
+        },
+        {
+            "name" : "Md Nazrul Islam Nahid",
+            "age" : 52,
+            "skill" : "MERN Stack Developer",
+            "biye" : false 
+        },
+        {
+            "name" : "Ashraful Haque",
+            "age" : 45,
+            "skill" : "Web Developer",
+            "biye" : true
+        },
+        {
+            "name" : "Shanti Akter",
+            "age" : 37,
+            "skill" : "MERN Stack Developer",
+            "biye" : true 
+        },
+        {
+            "name" : "Ram Charan",
+            "age" : 35,
+            "skill" : "Web Developer",
+            "biye" : true
+        }
+    ]
+}
